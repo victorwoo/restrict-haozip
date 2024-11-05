@@ -1,4 +1,4 @@
-# restrict-haozip
+# Restrict HaoZip
 
 `restrict-haozip` 是一个开源项目，旨在通过多种方式限制或解除好压（HaoZip）及其附带服务的执行权限。此项目包含两个 PowerShell 脚本：`RestrictHaoZip.ps1` 和 `UnrestrictHaoZip.ps1`，分别用于设置和解除 HaoZip 的执行限制。
 
